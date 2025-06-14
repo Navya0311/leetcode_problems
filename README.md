@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
