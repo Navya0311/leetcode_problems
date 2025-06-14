@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -16,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
