@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1603-running-sum-of-1d-array](https://github.com/Navya0311/leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Navya0311/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Navya0311/leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Navya0311/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
