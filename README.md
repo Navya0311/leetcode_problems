@@ -84,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
