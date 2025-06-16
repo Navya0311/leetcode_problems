@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya0311/leetcode_problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navya0311/leetcode_problems/tree/master/0792-binary-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Navya0311/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Navya0311/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya0311/leetcode_problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navya0311/leetcode_problems/tree/master/0792-binary-search) |
 ## Math
