@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navya0311/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Navya0311/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -133,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
