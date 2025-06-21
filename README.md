@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya0311/leetcode_problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navya0311/leetcode_problems/tree/master/0792-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navya0311/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Navya0311/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya0311/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -135,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
