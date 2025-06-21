@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navya0311/leetcode_problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navya0311/leetcode_problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
@@ -134,6 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Navya0311/leetcode_problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
