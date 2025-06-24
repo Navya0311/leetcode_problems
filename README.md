@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya0311/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya0311/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Navya0311/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,8 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya0311/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya0311/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Navya0311/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya0311/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Navya0311/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
