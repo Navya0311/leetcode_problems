@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya0311/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
