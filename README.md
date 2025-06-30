@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Navya0311/leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2630-alternating-digit-sum](https://github.com/Navya0311/leetcode_problems/tree/master/2630-alternating-digit-sum) |
 ## Linked List
 |  |
 | ------- |
