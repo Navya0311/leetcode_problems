@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Navya0311/leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2630-alternating-digit-sum](https://github.com/Navya0311/leetcode_problems/tree/master/2630-alternating-digit-sum) |
 ## Linked List
