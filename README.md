@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya0311/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/Navya0311/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navya0311/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Navya0311/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/Navya0311/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
