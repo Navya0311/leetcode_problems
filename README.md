@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Navya0311/leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya0311/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
+| [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
 ## Prefix Sum
 |  |
 | ------- |
