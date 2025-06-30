@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Navya0311/leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Linked List
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Navya0311/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Navya0311/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navya0311/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Navya0311/leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
