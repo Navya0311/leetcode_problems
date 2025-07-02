@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Navya0311/leetcode_problems/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Navya0311/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Navya0311/leetcode_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Navya0311/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Navya0311/leetcode_problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya0311/leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navya0311/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Navya0311/leetcode_problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
