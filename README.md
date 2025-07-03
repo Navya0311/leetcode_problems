@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Navya0311/leetcode_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Navya0311/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Navya0311/leetcode_problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya0311/leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navya0311/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Navya0311/leetcode_problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
