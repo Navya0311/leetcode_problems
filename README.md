@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navya0311/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Navya0311/leetcode_problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Navya0311/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
 ## Prefix Sum
 |  |
