@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navya0311/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/Navya0311/leetcode_problems/tree/master/1095-two-city-scheduling) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Navya0311/leetcode_problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navya0311/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
 ## Prefix Sum
 |  |
