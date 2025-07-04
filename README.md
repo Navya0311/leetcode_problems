@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Navya0311/leetcode_problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/Navya0311/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-two-city-scheduling](https://github.com/Navya0311/leetcode_problems/tree/master/1095-two-city-scheduling) |
 | [1603-running-sum-of-1d-array](https://github.com/Navya0311/leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Navya0311/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
+| [1095-two-city-scheduling](https://github.com/Navya0311/leetcode_problems/tree/master/1095-two-city-scheduling) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navya0311/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Navya0311/leetcode_problems/tree/master/0917-boats-to-save-people) |
+| [1095-two-city-scheduling](https://github.com/Navya0311/leetcode_problems/tree/master/1095-two-city-scheduling) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Navya0311/leetcode_problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Navya0311/leetcode_problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Hash Table
