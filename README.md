@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
+| [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
 | [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
 ## Prefix Sum
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Navya0311/leetcode_problems/tree/master/0342-power-of-four) |
+| [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya0311/leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Navya0311/leetcode_problems/tree/master/1642-water-bottles) |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Navya0311/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
