@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Navya0311/leetcode_problems/tree/master/0091-decode-ways) |
+| [0338-counting-bits](https://github.com/Navya0311/leetcode_problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
 | [3903-inverse-coin-change](https://github.com/Navya0311/leetcode_problems/tree/master/3903-inverse-coin-change) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Navya0311/leetcode_problems/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/Navya0311/leetcode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Navya0311/leetcode_problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navya0311/leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navya0311/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
