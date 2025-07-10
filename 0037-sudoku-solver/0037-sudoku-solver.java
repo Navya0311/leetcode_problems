@@ -10,15 +10,16 @@ class Solution {
                     for (char ch = '1'; ch <= '9'; ch++) {
                         if (isvalid(i, j, ch, board)) {
                             board[i][j] = ch;
-                            if (fillcell(board)) return true;
-                            board[i][j] = '.'; // backtrack
+                            if (fillcell(board))
+                                return true;
+                            board[i][j] = '.';
                         }
                     }
-                    return false; // if no digit is valid
+                    return false;
                 }
             }
         }
-        return true; // board is filled
+        return true;
     }
 
     public static boolean isvalid(int r, int c, char choice, char[][] board) {
