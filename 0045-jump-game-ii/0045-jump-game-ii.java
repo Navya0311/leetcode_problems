@@ -9,7 +9,7 @@ class Solution {
             if(i==crr)
             {
              jumps++;
-            crr=far;
+              crr=far;
             }
            
         }
