@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Navya0311/leetcode_problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navya0311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Navya0311/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Navya0311/leetcode_problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Navya0311/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navya0311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/Navya0311/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
