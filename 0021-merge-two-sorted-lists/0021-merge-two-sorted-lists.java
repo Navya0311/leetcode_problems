@@ -26,7 +26,14 @@ class Solution {
     
     curr=curr.next;
     }
-    curr.next= l1!=null?l1:l2;
+     if(l1!=null)
+     {
+        curr.next=l1;
+     }
+     else
+     {
+        curr.next=l2;
+     }
         return dummy.next;
     }
 }
