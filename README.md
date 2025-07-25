@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Navya0311/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Navya0311/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya0311/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Navya0311/leetcode_problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Navya0311/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Navya0311/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Navya0311/leetcode_problems/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Navya0311/leetcode_problems/tree/master/0342-power-of-four) |
 | [1086-divisor-game](https://github.com/Navya0311/leetcode_problems/tree/master/1086-divisor-game) |
