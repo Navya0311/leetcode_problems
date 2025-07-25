@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya0311/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Navya0311/leetcode_problems/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Navya0311/leetcode_problems/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya0311/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Navya0311/leetcode_problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
