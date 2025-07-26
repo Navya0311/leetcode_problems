@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Navya0311/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/Navya0311/leetcode_problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Navya0311/leetcode_problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Navya0311/leetcode_problems/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Navya0311/leetcode_problems/tree/master/0455-assign-cookies) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Navya0311/leetcode_problems/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Navya0311/leetcode_problems/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navya0311/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Navya0311/leetcode_problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
