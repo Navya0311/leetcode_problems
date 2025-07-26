@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navya0311/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Navya0311/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Navya0311/leetcode_problems/tree/master/0141-linked-list-cycle) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navya0311/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Navya0311/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navya0311/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/Navya0311/leetcode_problems/tree/master/0091-decode-ways) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya0311/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Navya0311/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Navya0311/leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Navya0311/leetcode_problems/tree/master/0202-happy-number) |
