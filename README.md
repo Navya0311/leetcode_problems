@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Navya0311/leetcode_problems/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Navya0311/leetcode_problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Navya0311/leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Navya0311/leetcode_problems/tree/master/0577-employee-bonus) |
