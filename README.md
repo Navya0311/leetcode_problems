@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya0311/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navya0311/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Navya0311/leetcode_problems/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Navya0311/leetcode_problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navya0311/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Navya0311/leetcode_problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Navya0311/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Navya0311/leetcode_problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/Navya0311/leetcode_problems/tree/master/0740-delete-and-earn) |
