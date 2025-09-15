@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Navya0311/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Navya0311/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Navya0311/leetcode_problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Navya0311/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Navya0311/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navya0311/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Navya0311/leetcode_problems/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Navya0311/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Navya0311/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Navya0311/leetcode_problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Navya0311/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navya0311/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Navya0311/leetcode_problems/tree/master/0740-delete-and-earn) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navya0311/leetcode_problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navya0311/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navya0311/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Navya0311/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
