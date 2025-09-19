@@ -1,23 +1,24 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int l=0;
-        int r=nums.length-1;
-        while(l<=r)
+        int s=0;
+        int e=nums.length-1;
+        return bin(nums,target,s,e);
+    }
+    public int bin(int [] nums,int target,int s,int e)
+    {
+        if(s>e)
         {
-            int mid=l+(r-l)/2;
-            if(nums[mid]==target)
-            {
-                return mid;
-            }
-            else if(nums[mid]>target)
-            {
-                r=mid-1;
-            }
-            else 
-            {
-                l=mid+1;
-            }
+            return -1;
         }
-        return -1;
+        int m=s+(e-s)/2;
+        if(nums[m]==target)
+        {
+            return m;
+        }
+        else if(nums[m]>target)
+        {
+            return bin(nums,target,s,m-1);
+        }
+        return bin(nums,target,m+1,e);
     }
 }
