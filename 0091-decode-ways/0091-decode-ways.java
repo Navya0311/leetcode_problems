@@ -1,37 +1,20 @@
 class Solution {
     public int numDecodings(String s) {
-           Integer dp[]=new Integer[s.length()];
-        if(s.length()==0)
-        {
-            return 0;
-        }
-        else
-        {
-         return helper(s,0,dp);
-        }
-    }
-    public static int helper(String s,int p,Integer []mem)
-    {
         int n=s.length();
-     
-        if(p==n)
+        int []dp=new int[n+1];
+        dp[0]=1;
+        dp[1]=s.charAt(0)=='0'?0:1;
+        for(int i=2;i<=n;i++)
         {
-            return 1;
+            int onedigit=Integer.valueOf(s.substring(i-1,i));
+            int twodigits=Integer.valueOf(s.substring(i-2,i));
+            if(onedigit>=1)
+            {
+                dp[i]+=dp[i-1];
+            }
+            if(twodigits>=10&& twodigits<=26)
+            dp[i]+=dp[i-2];
         }
-        if(s.charAt(p)=='0')
-        {
-            return 0;
-        }
-        if(mem[p]!=null)
-        {
-            return mem[p];
-        }
-        int res=helper(s,p+1,mem);
-        if(p<n-1&&(s.charAt(p)=='1'||s.charAt(p)=='2'&&s.charAt(p+1)<'7'))
-        {
-            res=res+helper(s,p+2,mem);
-        }
-
-        return mem[p]=res;
+        return dp[n];
     }
 }
