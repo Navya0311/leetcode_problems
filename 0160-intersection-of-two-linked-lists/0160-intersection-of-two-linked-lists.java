@@ -10,19 +10,18 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode A, ListNode B) {
-        ListNode a=A;
-        ListNode b=B;
-
-      while(a!=b)
-      {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    ListNode a=headA;
+    ListNode b=headB;
+    while(a!=b)
+    {
         if(a!=null)
         {
-          a=a.next;
+            a=a.next;
         }
         else
         {
-            a=B;
+            a=headB;
         }
         if(b!=null)
         {
@@ -30,9 +29,9 @@ public class Solution {
         }
         else
         {
-            b=A;
+            b=headA;
         }
-      }
-       return a; 
+    }
+    return a;
     }
 }
